@@ -1,0 +1,4 @@
+2019-06-17 20:31:58,730 [1] DEBUG Base.Communicator - Setup UDP Client
+2019-06-17 20:31:58,739 [1] DEBUG Base.Communicator - Local Port 57287
+2019-06-17 20:31:58,739 [3] DEBUG Base.Communicator - Communicator Started
+2019-06-17 20:31:58,786 [1] DEBUG Base.Communicator - Send Hello to 127.0.0.1:12000
